@@ -2,17 +2,7 @@
 
 A responsive, mobile-first redesign for NSBLPA.com, inspired by nfl.com and fvnsport.com.
 
-## Project Structure
-nsblpa-prototype/
-index.html # Home page
-ownership.html # Ownership information page
-teams.html # Teams listing page
-apps.html # Mobile apps page
-contact.html # Contact form page
-assets/
-styles.css # Main stylesheet
-scripts.js # JavaScript functionality
-images/ # Image assets (logos, etc.)
+
 
 
 ## How to Run
